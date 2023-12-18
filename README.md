@@ -1,7 +1,7 @@
 # Projekt: Ride Social
 
 Mit "Ride Social" wollen wir, ein Team von 3 Entwicklern, ein Projekt ins leben rufen, das für begeisterte Motorrad- und Autofahrer*innen eine Plattform bietet.
-In der heutigen Zeit ist es so einfach wie noch nie soziale Kontake zu knüfen, dennoch gestaltet sich die suche nach einer Gruppe, die das gleiche Hobby teilt, nicht so einfach.
+In der heutigen Zeit ist es so einfach wie noch nie soziale Kontake zu knüpfen, dennoch gestaltet sich die suche nach einer Gruppe, die das gleiche Hobby teilt, nicht so einfach.
 Selbst in großen Social-Media-Apps ist es als Neuling schwierig, sich in bereits gefestigte Gruppen oder Freundeskreise einzuarbeiten.
 Ein Ziel dieses Projekts ist es, einerseits, neue Bekanntschaften kennenzulernen und andererseits, den Spaß an seinem Hobby mit anderen ausleben zu können.
 Diesen Zugang wird die App den Usern immens erleichtern, denn wir bieten die Möglichkeit, sich spontan oder auch für eine bestimmte Uhrzeit / einen bestimmten Tag zu verabreden.
