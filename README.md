@@ -1,5 +1,5 @@
 # Projekt: Ride Social
-(Kappelmayer Dominic)
+(Kappelmayer Dominic)  
 Mit "Ride Social" wollen wir, ein Team von 3 Entwicklern, ein Projekt ins leben rufen, das für begeisterte Motorrad- und Autofahrer*innen eine Plattform bietet.
 In der heutigen Zeit ist es so einfach wie noch nie soziale Kontake zu knüpfen, dennoch gestaltet sich die suche nach einer Gruppe, die das gleiche Hobby teilt, nicht so einfach.
 Selbst in großen Social-Media-Apps ist es als Neuling schwierig, sich in bereits gefestigte Gruppen oder Freundeskreise einzuarbeiten.
