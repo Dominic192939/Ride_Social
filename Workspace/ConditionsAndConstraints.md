@@ -4,7 +4,8 @@ Bei unserem Projekt ist die Benutzerfreundlichkeit besonders wichtig. Das Design
 
 Ride-Social bietet eine schnelle und präzise Funktion zur Routenplanung. Ein einfaches und effizientes Interface kann verwendet werden, um eine Motorrad- oder Autotour schnell und einfach zu planen. Die App bietet auch die Möglichkeit, verschiedene Routen zu wählen, wie zum Beispiel in den Gebirgsgebieten, zwischen den Städten oder auch in den Wäldern. Ein zu kompliziertes System kann dazu führen, dass Kunden sich nicht mehr auskennen und bei der Berechnung der Routen verfahren können. 
 
-Die Navigation ist ein weiterer wichtiger Punkt bei dem Projekt Ride-Social. Es bringt keinem weiter wenn eine perfekte Motorradtour bzw Autotour erstellt wird, wenn man halt nich der Naviagtionsanweisung folgen kann. Deswegen ist es für uns sehr wichtig die Navigation so zu steigern, damit die Kunden keine porbleme haben während dem fahren.
+Ein weiterer wichtiger Aspekt des Projekts Ride-Social ist die Navigation. Eine perfekte Motorradtour oder Autotour ist sinnlos, wenn man die Anweisungen nicht befolgt. Daher ist es für uns sehr wichtig, die Navigation zu verbessern, damit unsere Kunden während des Fahrens keine Schwierigkeiten haben.
+
 
 
 
