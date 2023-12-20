@@ -38,11 +38,11 @@ Die Kosten für die Entwicklung dieser App werden sich auf rund 20.000 € belau
 
 Dies inkludiert bereits die Website und die dafür nötige Datenbank.  
 Folgende Schnittstellen werden benötigt:
-    - Datenbankschnittstelle
-    - Netzwerkschnittstelle
-    - Hardwareschnittstelle (GPS-Daten, Sensorik)
-    - Social Media-Schnittstelle
-    - Benutzeroberfläche
+  1. Datenbankschnittstelle
+  2. Netzwerkschnittstelle
+  3. Hardwareschnittstelle (GPS-Daten, Sensorik)
+  4. Social Media-Schnittstelle
+  5. Benutzeroberfläche
 
 * Anpassungen und Testen:  
 Ein Großteil dieser Kosten wird bereits in den Entwicklungskosten abgegolten, dennoch werden in dieser Instanz 1.500 € anfallen. 
