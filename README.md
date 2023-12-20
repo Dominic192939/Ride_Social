@@ -1,3 +1,4 @@
+![Ride Social](Wallpaper_RideSocial.jpg)
 # Projekt: Ride Social
 (Kappelmayer Dominic)  
 Mit "Ride Social" wollen wir, ein Team von 3 Entwicklern, ein Projekt ins Leben rufen, das für begeisterte Motorrad- und Autofahrer*innen eine Plattform bietet.  
