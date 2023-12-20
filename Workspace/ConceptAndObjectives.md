@@ -26,6 +26,6 @@ Durch die Bereitstellung einer umfassenden mobilen Anwendung, die speziell für 
 
 6. Analytics and Insights:
 * Bereitstellen von Analysen zu den Fahrten der Benutzer mit Durchschnittsgeschwindigkeit, Höhenunterschieden und zurückgelegter Strecke.
-* 
+* Umfasst Funktionen zur Überwachung des Kraftstoffverbrauchs und der Effizienz. 
 
 
