@@ -1,7 +1,7 @@
 (Saglik Devran)  
-# System Concept and Objectives
+# Systemkonzept und Ziele
 
-## Concept:
+## Konzept:
 Durch die Bereitstellung einer umfassenden mobilen Anwendung, die speziell für Motorradfahrer entwickelt wurde, zielt die Motorrad-App darauf ab, das Gesamterlebnis für Motorradfahrer zu verbessern. Die App soll als umfassende Lösung für Fahrer dienen und Funktionen bieten, die Bequemlichkeit, Sicherheit und Gemeinschaft ansprechen.
 Im Endstadium von Ride Social werden alle relevanten Daten (insofern der User dies möchte) der Route gespeichert und anschließend auf unserer Website ausgewertet.
 Auch Patchnotes und auch Feedbacks sollen auf der Website seinen Platz finden, die zusammenarbeit mit den Usern ist wichtig um Konkurrenzfähig zu bleiben.
