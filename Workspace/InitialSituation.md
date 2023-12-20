@@ -2,7 +2,7 @@
 # Allgemeine Ausgangssituation  
   
  Das Grundkonzept lässt sich als solches beschreiben: 
-1. Eine App wird unser Hauptaugenmerk sein.
+1. Eine App wird das Hauptaugenmerk sein.
 2. Eine Informationswebsite, welche sich User zunutze machen können, um ihre ausgewerteten Daten zu verfolgen oder sich anderweitig sozial zu vernetzen. 
 
 Aktuell Marktdominierende Apps:
