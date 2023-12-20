@@ -1,5 +1,5 @@
 (Saglik Devran)  
-# General Conditions and Constraints
+# Allgemeine Bedingungen und Einschränkungen
 Bei unserem Projekt ist die Benutzerfreundlichkeit besonders wichtig. Das Design der App wurde so konzipiert, dass es ein äußerst intuitives Bedienkonzept ermöglicht. Dies ermöglicht es vielen Kunden, unabhängig vom Alter, die App zu nutzen. Wenn eine App nicht gut bedienbar ist, werden die Kunden frustriert und werden die App weniger nutzen.
 
 Ride-Social bietet eine schnelle und präzise Funktion zur Routenplanung. Ein einfaches und effizientes Interface kann verwendet werden, um eine Motorrad- oder Autotour schnell und einfach zu planen. Die App bietet auch die Möglichkeit, verschiedene Routen zu wählen, wie zum Beispiel in den Gebirgsgebieten, zwischen den Städten oder auch in den Wäldern. Ein zu kompliziertes System kann dazu führen, dass Kunden sich nicht mehr auskennen und bei der Berechnung der Routen verfahren können. 
