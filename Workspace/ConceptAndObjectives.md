@@ -13,4 +13,6 @@ Durch die Bereitstellung einer umfassenden mobilen Anwendung, die speziell für 
 * Das Ziel des Rider-Community-Forums ist es, eine Plattform für Fahrer zu schaffen, um sich zu vernetzen, Erfahrungen auszutauschen und über Routen, Tipps und Ereignisse zu sprechen.
 * Benutzer können Gruppenfahrten organisieren oder ihre eigenen erstellen.
 
-
+3. Navigation and route planning:
+* Ein Routenplanungssystem mit motorradfreundlichen Wegen, das Kurven, Landschaftsaussichten und Straßenbedingungen berücksichtigt.
+* Um sicherzustellen, dass Fahrer auch in abgelegenen Gebieten Zugriff auf die Navigation haben, aktiviert man die Offline-Karten für Gebiete mit schlechter Konnektivität.
