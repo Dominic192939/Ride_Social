@@ -1,15 +1,26 @@
 (Kappelmayer Dominic)  
+
+ Das Grundkonzept lässt sich als solches beschreiben: 
+1. Eine App wird unser Hauptaugenmerk sein.
+2. Eine Informations Website, welche sich User zu nutze machen können um ihre ausgewerteten Daten zu verfolgen oder sich anderweitig social zu vernetzen.  
+
 Aktuell Marktdominierende Apps:
 1. Calimoto
 2. Ride With Me
 3. Moto Riders (Englischsprachiger Raum)
-4. Rever (Englischsprachiger Raum)
+4. Rever (Englischsprachiger Raum)  
 
-Das Grundkonzept lässt sich als solches beschreiben: 
-1. Eine App wird unser Hauptaugenmerk sein.
-2. Eine Informations Website, welche sich User zu nutze machen können um ihre ausgewerteten Daten zu verfolgen oder sich anderweitig social zu vernetzen. 
-Auch Patchnotes und auch Feedback soll auf der Website seinen Platz finden, die zusammenarbeit mit den Usern ist wichtig um Konkurrenzfähig zu bleiben.
+Was Ride Social von den anderen bisher verfügbaren Apps unterscheidet:  
 
-Das Projekt Ride Social, dient für diese Personenkreise eine Plattform:
-1. Motorradfahrer*innen
-2. Autofahrer*innen
+* Einfache Bedienbarkeit:
+Es gibt insgesamt 4 Modis: Standard, Individuell, Autofahrer und Motorradfahrer.  
+Jene unterschiede liegen in der Handhabung, denn zum Beispiel sollte es Motorradfahrern trotz Handschuhe möglich sein, mit der Oberfläche zu interagieren.  
+Das heißt die App wird je Modus unterschiedliche Größen der Interfaces haben.  
+Individuell bedeutet, dass alle Buttons, Interfaces selbst in der Position und Größe bestimmt werden können.  
+
+* Kommunikation mit der App:
+Ride Social soll neben der regulären Bedienung auch eine Sprachsteuerung enthalten. Vor allem während der Fahrt kann dies von großem Vorteil sein.  
+
+* Tankstellen:
+In der Weltkarte werden alle beliebigen Tankstellen mit aktuellen Preisen angegeben.  
+Diese Funktion ist mit der Routenführung kombinierbar und kann somit Problemlos während der Tour eingeplant werden.  
