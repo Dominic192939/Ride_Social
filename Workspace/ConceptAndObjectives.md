@@ -6,7 +6,7 @@ Durch die Bereitstellung einer umfassenden mobilen Anwendung, die speziell für 
 Im Endstadium von Ride Social werden alle relevanten Daten (insofern der User dies möchte) der Route gespeichert und anschließend auf unserer Website ausgewertet.
 Auch Patchnotes und auch Feedbacks sollen auf der Website seinen Platz finden, die zusammenarbeit mit den Usern ist wichtig um Konkurrenzfähig zu bleiben.
 
-## Ziele
+## Ziele:
 1. Fahrsicherheit:
 * Zur Verbesserung der Sicherheit während der Fahrt wird GPS-Verfolgung verwendet.
 * Im Falle von Unfällen oder Pannen sollte eine Funktion integriert werden, die den schnellen Zugriff auf Notdienste oder Kontakte ermöglicht.
