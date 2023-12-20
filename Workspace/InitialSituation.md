@@ -24,3 +24,37 @@ Ride Social soll neben der regulären Bedienung auch eine Sprachsteuerung enthal
 * _Tankstellen_:  
 In der Weltkarte werden alle beliebigen Tankstellen mit aktuellen Preisen angegeben.  
 Diese Funktion ist mit der Routenführung kombinierbar und kann somit Problemlos während der Tour eingeplant werden.  
+
+## Finanzielle Ausgangssituation  
+
+* Designkosten:  
+Darunter fällt das User Interface (UI, Benutzeroberfläche) und die User Experience (UX, Benutzerfreundlichkeit).  
+Für das App Design kalkulieren wir 4.500€, da durch die gegebene individualität ein hoher Aufwand des Grafikdesigns entsteht.  
+
+* Entwicklungskosten:  
+Die Kosten für die Entwicklung dieser App werden sich auf rund 20.000€ belangen.  
+Dies inkludiert bereits die Website und die dafür nötige Datenbank.  
+Folgende Schnittstellen werden benötigt:
+1. Datenbankschnittstelle
+2. Netzwerkschnittstelle
+3. Hardwareschnittstelle (GPS-Daten, Sensorik)
+4. Social Media-Schnittstelle
+5. Benutzeroberfläche
+
+* Anpassungen und Testen:  
+Ein großteil dieser Kosten werden bereits in den Entwicklungskosten abgegolten, dennoch werden in dieser Instanz 1.500€ anfallen. 
+
+* Kartenmaterial:  
+Verwendet wird „Google Maps“ als Kartenmaterial, da weitere sinnvolle Funktionen wie zum Beispiel: Stau Warnungen, Baustellen, … inkludiert sind. Dieser Dienst bezieht sich auf Mehrkosten von ca 200€ pro Monat.  
+Verwendet wird eine Open Street Map, das heißt eine frei verwendbare Weltkarte mit offener Lizenz. Somit werden die Entwicklungskosten gesenkt.  
+
+* Hardware und sonstige Kosten:  
+Das Projekt wird von uns selbst gehostet und betrieben, deswegen werden 3.000€ für den Website und Datenbank Server fällig.  
+Hinzu kommt noch eine Firewall für 400€, Internet Betriebskosten um eine schnelle Kommunikation zu gewährleisten: 250€ pro Monat, einen Raum für unsere Server: 150€ pro Monat und der daraus folgende Strom: 100€ pro Monat.  
+
+
+* Marketingskosten:  
+Um einen Erfolg des Projekts zu erzielen wird für Marketing 50% der Gesamtkosten investiert. 
+Bei den Projektgesamtkosten von ~32.500€ würden für Marketing 16.250€ anfallen.  
+
+### Gesamtkostenaufstellung: 48.750€
