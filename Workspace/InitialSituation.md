@@ -1,5 +1,6 @@
 (Kappelmayer Dominic)  
-
+# Allgemeine Ausgangssituation  
+  
  Das Grundkonzept lässt sich als solches beschreiben: 
 1. Eine App wird unser Hauptaugenmerk sein.
 2. Eine Informations Website, welche sich User zu nutze machen können um ihre ausgewerteten Daten zu verfolgen oder sich anderweitig social zu vernetzen.  
@@ -24,7 +25,7 @@ Ride Social soll neben der regulären Bedienung auch eine Sprachsteuerung enthal
 * _Tankstellen_:  
 In der Weltkarte werden alle beliebigen Tankstellen mit aktuellen Preisen angegeben.  
 Diese Funktion ist mit der Routenführung kombinierbar und kann somit Problemlos während der Tour eingeplant werden.  
-
+  
 ## Finanzielle Ausgangssituation  
 
 * Designkosten:  
