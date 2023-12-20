@@ -1,6 +1,7 @@
 ![Ride Social](Wallpaper_RideSocial.jpg)
-# Projekt: Ride Social
+# Einführung in Ride Social
 (Kappelmayer Dominic)  
+  
 Mit "Ride Social" soll ein Projekt ins Leben gerufen werden, das für begeisterte Motorrad- und Autofahrer*innen eine Plattform bietet.  
 Obwohl es in der heutigen Zeit so einfach ist, soziale Kontakte zu knüpfen, ist die Suche nach einer Gruppe, die das gleiche Hobby teilt, nicht einfach.  
 Selbst in großen Social-Media-Apps ist es als Neuling schwierig, sich in bereits gefestigte Gruppen oder Freundeskreise zu integrieren. 
