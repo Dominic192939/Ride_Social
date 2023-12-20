@@ -28,31 +28,31 @@ Diese Funktion ist mit der Routenführung kombinierbar und kann somit problemlos
   
 # Finanzielle Ausgangssituation  
 
-* Designkosten:  
+### * Designkosten:  
 Darunter fällt das User Interface (UI, Benutzeroberfläche) und die User Experience (UX, Benutzerfreundlichkeit).  
 Für das App-Design kalkulieren wir 4.500 €, da durch die gegebene Individualität ein hoher Aufwand des Grafikdesigns entsteht.  
 
 
-* Entwicklungskosten:  
+### * Entwicklungskosten:  
 Die Kosten für die Entwicklung dieser App werden sich auf rund 20.000 € belaufen.  
 
 Dies inkludiert bereits die Website und die dafür nötige Datenbank.  
 Folgende Schnittstellen werden benötigt:
-  1. Datenbankschnittstelle
-  2. Netzwerkschnittstelle
-  3. Hardwareschnittstelle (GPS-Daten, Sensorik)
-  4. Social Media-Schnittstelle
-  5. Benutzeroberfläche
+     1. Datenbankschnittstelle
+     2. Netzwerkschnittstelle
+     3. Hardwareschnittstelle (GPS-Daten, Sensorik)
+     4. Social Media-Schnittstelle
+     5. Benutzeroberfläche
 
-* Anpassungen und Testen:  
+### * Anpassungen und Testen:  
 Ein Großteil dieser Kosten wird bereits in den Entwicklungskosten abgegolten, dennoch werden in dieser Instanz 1.500 € anfallen. 
 
-* Kartenmaterial:  
+### * Kartenmaterial:  
 Verwendet wird „Google Maps“ als Kartenmaterial, da weitere sinnvolle Funktionen wie zum Beispiel: Stauwarnungen, Baustellen, … inkludiert sind. Dieser Dienst bezieht sich auf Mehrkosten von ca. 200 € Pro Monat, je nach Usern Nutzung der App.
   
 Es besteht in der Zukunft die Möglichkeit der Nutzung von "OpenStreetMap", das heißt eine frei verwendbare Weltkarte mit offener Lizenz. Somit würden die laufenden Kosten gesenkt werden und eine Unabhängigkeit von "Google" wäre gewährleistet.
 
-* Hardware und sonstige Kosten:  
+### * Hardware und sonstige Kosten:  
 Das Projekt wird von uns selbst gehostet und betrieben, deswegen werden 3.000 € für die Website und den Datenbankserver fällig.  
 
 Hinzu kommt noch eine Firewall für 400 €, Internet Betriebskosten um eine schnelle Kommunikation zu gewährleisten: 250 € pro Monat, einen Raum für unsere Server: 150 € pro Monat und der daraus folgende Strom: 100 € pro Monat.  
