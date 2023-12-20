@@ -23,8 +23,8 @@ Auch Patchnotes und auch Feedbacks sollen auf der Website seinen Platz finden, d
 * Wettervorhersagen werden in die App integriert, um Fahrern zu helfen, ihre Fahrten basierend auf aktuellen und zukünftigen Wetterbedingungen zu planen.
 
 5. Social integration:
-* Ermöglicht es den Benutzern, ihre Fahrten, Erfolge und Erlebnisse direkt aus der App in sozialen Medien zu teilen.
-* Ermöglicht es den Benutzern, Freunde zur Teilnahme an der App einzuladen und eine größere Gemeinschaft aufzubauen.
+* Die Benutzer können auch ihre Fahrten, Erfolge und Erlebnisse direkt aus der App in sozialen Medien zu teilen.
+* Die Benutzer haben die möglichkeit, ihre Freunde zur Teilnahme an der App einzuladen und eine größere Gemeinschaft aufzubauen.
 
 6. Analytics and Insights:
 * Bereitstellen von Analysen zu den Fahrten der Benutzer mit Durchschnittsgeschwindigkeit, Höhenunterschieden und zurückgelegter Strecke.
