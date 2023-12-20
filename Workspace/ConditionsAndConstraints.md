@@ -6,6 +6,9 @@ Ride-Social bietet eine schnelle und präzise Funktion zur Routenplanung. Ein ei
 
 Ein weiterer wichtiger Aspekt des Projekts Ride-Social ist die Navigation. Eine perfekte Motorradtour oder Autotour ist sinnlos, wenn man die Anweisungen nicht befolgt. Daher ist es für uns sehr wichtig, die Navigation zu verbessern, damit unsere Kunden während des Fahrens keine Schwierigkeiten haben.
 
+Die Aufzeichnung und Analyse der Tour macht unsere App einzigartig.
+Die App beginnt eine automatische Aufzeichnung einer Tour, wenn man sie berechnet und fährt.
+Die Anwendung analysiert die gefahrene Strecke, die Dauer der Tour, die absolvierten Höhenunterschiede und die durchschnittliche Geschwindigkeit während der Aufzeichnung. Diese Informationen sind sehr hilfreich, um jede weitere Tour zu optimieren und die Fahrweise zu verbessern.
 
 
 
