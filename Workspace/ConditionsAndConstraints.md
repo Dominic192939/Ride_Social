@@ -10,6 +10,10 @@ Die Aufzeichnung und Analyse der Tour macht unsere App einzigartig.
 Die App beginnt eine automatische Aufzeichnung einer Tour, wenn man sie berechnet und fährt.
 Die Anwendung analysiert die gefahrene Strecke, die Dauer der Tour, die absolvierten Höhenunterschiede und die durchschnittliche Geschwindigkeit während der Aufzeichnung. Diese Informationen sind sehr hilfreich, um jede weitere Tour zu optimieren und die Fahrweise zu verbessern.
 
+Unsere Ride-Social-App wird während des Fahrens äußerst zuverlässig und stabil sein. 
+Damit unsere Kunden diese Anwendung problemlos nutzen können, stellen wir sicher, dass sie keine Abstürze oder Fehler hat. 
+Fehler und Absturz verhindern das Vergnügen des Kunden und  verringern natürlich die Freude an der Anwendung.
+
 
 
 
