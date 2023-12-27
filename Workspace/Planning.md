@@ -9,17 +9,21 @@
 + Startzeit:
 + Voraussichtliche Veröffentlichung:
 
-*3 Monat* 
+<details> <summary>1. 3 Monat </summary>
 
 + Datenbank mit Angabe der Fahrzeuge
 + Google und Apple Anfrage zur Benützung deren Maps
 + Erste App Design
 + Anfrage an Tankstellen (Shell, Turmöl, DISKONT etc. )
 
-*6 Monate*
+</details> 
+
+<details> <summary>2. 6 Monate </summary>
 
 + Implemetieren der Maps
 + Inverstoren suchen (Veranschaulichung durch Prototyp)
+
+
 
 *9 Monate*
 
