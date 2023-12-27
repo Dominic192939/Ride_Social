@@ -1,10 +1,3 @@
-Deutsch: Text schreiben
-Mathe: Lernen
-Prog: Programmieren
-Dbi: lernen 
-SYP: Project fertig machen
-English: Text mal fertig schreiben du bastard
-
 (Ou Steven)
 
 # Plannung
