@@ -9,6 +9,11 @@ Laut der Statistik des ÖAMTC gab es im Jahr 2021 über 3000 verletzte Motorradf
 
 Nach einem Unfall leiten wir nicht beteiligte Verkehrsteilnehmer auf alternative Routen um, um zu verhindern, dass sie mit den Ereignissen konfrontiert werden, insbesondere um Kinder zu schützen, die solche Szenen nicht sehen sollten. 
 
+Im Folgenden Link sehen Sie von der ÖAMTC eine Statistik der verunglückten Biker:innen und Mitfahrer:innen 
+
+https://www.oeamtc.at/presse/oeamtc-2022-verunglueckten-55-motorradfahrende-toedlich-55402573
+
+
 ** **
 
 ### Risiken: 
