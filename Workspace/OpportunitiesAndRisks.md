@@ -13,9 +13,15 @@ Nach einem Unfall leiten wir nicht beteiligte Verkehrsteilnehmer auf alternative
 
 ### Risiken: 
 
+**Missbrauch**
+
 Ein wichtiger Aspekt, der nicht außer Acht gelassen werden sollte, ist der Missbrauch der Funktionen durch einige Jugendliche in unserer App. 
 
 Um diesem entgegenzuwirken, haben wir als erste Maßnahme den Benutzer darauf hingewiesen, dass die Notruffunktion ausschließlich im Falle eines Unfalls genutzt werden soll. Trotz dieser Klarstellung und als Reaktion auf den Missbrauch der Notruffunktion behalten wir uns vor, bei unnötiger Alarmierung der Einsatzkräfte muss der Benutzer eine Geldstrafe zahlen. 
+
+**Verlust**
+
+Der Markt präsentiert bereits ein ähnliches Konzept, daher könnte es anfangs schwierig sein, Fahrer für unsere App zu gewinnen. Es ist von großer Bedeutung, nicht nur visuell von den bestehenden Angeboten abzuheben, sondern auch gezielt und wirkungsvoll im Marketing zu agieren. Unser Hauptaugenmerk liegt darauf, unsere App durch gezieltes Marketing zu bewerben. Dennoch bleibt unklar, inwieweit unsere App viele Menschen ansprechen wird.
 
 
 
