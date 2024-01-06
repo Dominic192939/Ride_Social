@@ -17,6 +17,7 @@
 
 + Datenbank mit Angabe der Fahrzeuge
 + Google und Apple Anfrage zur Benützung deren Maps
++ Anfrage der Einsatzkräfte
 + Erste App Design
 + Anfrage an Tankstellen (Shell, Turmöl, DISKONT etc. )
 
