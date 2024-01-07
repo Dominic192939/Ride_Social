@@ -68,6 +68,7 @@
 **Ressourcenzuteilung**
 
 *Dominic:*  
+- Projektmanagement
 - Finanzierung und Kosteneinschätzung
 - Frontend Development (HTML, CSS, Javascript)
 - Datenbank Verwaltung und Datenauswertung (Python, mySQL, Oracle)
