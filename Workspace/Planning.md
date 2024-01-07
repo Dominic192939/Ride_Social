@@ -5,9 +5,9 @@
 **Timeline und Plannung**
 
 + Zielgruppe
-+ Entwicklungsphasen: Aufteilung der App in Phasen (z.b. Erstentwurf, Prototyp erstellen, Prelaunch, Bugs und Fehler suchen und bereinigen, Veröffentlichen.)
++ Entwicklungsphasen: Aufteilung der App in Phasen (zum Beispiel: Erstentwurf, Prototyp erstellen, Prelaunch, Bugs und Fehler suchen und bereinigen, Veröffentlichen.)
 + Startzeit: Mai 2024
-+ Voraussichtliche Veröffentlichung: März 2024
++ Voraussichtliche Veröffentlichung: März 2025
 
 ** **
 
@@ -67,10 +67,20 @@
 
 **Ressourcenzuteilung**
 
-- Team Aufbau - Umsetzung des Projekt benötigen Rollen (z.b  Entwickler, Design, Tester,)
-- Marketing - Devran und Steven
-- Finazierung und Kostenschätzung: Dominic
-- Design - Steven
-- Koopartionen mit Tankstellen (Shell, Turmöl, DISKONT etc. )
+*Dominic:*  
+- Finanzierung und Kosteneinschätzung
+- Frontend Development (HTML, CSS, Javascript)
+- Datenbank Verwaltung und Datenauswertung (Python, mySQL, Oracle)
+  
+*Devran:*  
+- Marketing
+- Testen
+- Design und Video (Adobe Photoshop, Adobe Premiere, Adobe After Effects)
+- Abklärung von kooperationen mit Tankstellen (BP, Shell, Turmöl, DISKONT, ...)
+
+*Steven:*  
+- Marketing
+- Backend Development (C#, Javascript, Python)
+- Technischer Support
 
 ** ** 
