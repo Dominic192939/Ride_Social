@@ -1,8 +1,8 @@
 (Ou Steven)
 
-# Plannung
+# Planung
 
-**Timeline und Plannung**
+**Timeline und Planung**
 
 + Zielgruppe
 + Entwicklungsphasen: Aufteilung der App in Phasen (zum Beispiel: Erstentwurf, Prototyp erstellen, Prelaunch, Bugs und Fehler suchen und bereinigen, Veröffentlichen.)
@@ -13,7 +13,7 @@
 
 <details> <summary>Version 0.0</summary>
 
-*3 Monat* 
+*3 Monate* 
 
 + Datenbank mit Angabe der Fahrzeuge
 + Google und Apple Anfrage zur Benützung deren Maps
@@ -25,10 +25,10 @@
 
 <details> <summary>Version 0.1</summary>
 
-*6 Monat*
+*6 Monate*
 
-+ Implemetieren der Maps
-+ Inverstoren suchen (Veranschaulichung durch Prototyp)
++ Implementieren der Maps
++ Investoren suchen (Veranschaulichung durch Prototyp)
 </details>
 
 <details> <summary> Version 0.3 (Alpha Version)</summary>
@@ -36,7 +36,7 @@
 *9 Monate*
 
 + Cloudspeicher, Datensicherheit
-+ ABGs verfassen
++ ABG's verfassen
 + Alphaversion
 </details>
 
@@ -71,13 +71,13 @@
 - Projektmanagement
 - Finanzierung und Kosteneinschätzung
 - Frontend Development (HTML, CSS, Javascript)
-- Datenbank Verwaltung und Datenauswertung (Python, mySQL, Oracle)
+- Datenbankverwaltung und Datenauswertung (Python, mySQL, Oracle)
   
 *Devran:*  
 - Marketing
 - Testen
 - Design und Video (Adobe Photoshop, Adobe Premiere, Adobe After Effects)
-- Abklärung von kooperationen mit Tankstellen (BP, Shell, Turmöl, DISKONT, ...)
+- Abklärung von Kooperationen mit Tankstellen (BP, Shell, Turmöl, DISKONT, ...)
 
 *Steven:*  
 - Marketing
