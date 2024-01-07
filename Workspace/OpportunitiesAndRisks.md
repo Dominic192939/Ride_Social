@@ -3,7 +3,7 @@
 
 ### Möglichkeit: 
 
-Ein Wichtiges Haupt-Augenmerkmal ist für uns die Zusammenarbeit mit den Einsatzkräften. 
+Ein wichtiges Haupt-Augenmerkmal ist für uns die Zusammenarbeit mit den Einsatzkräften. 
 
 Laut der Statistik des ÖAMTC gab es im Jahr 2021 über 3000 verletzte Motorradfahrer, von denen ungefähr 70 entweder an Unfallstellen oder im Krankenhaus verstorben sind. Aus diesem Grund verfügt unsere App über eine Notruffunktion, die es ermöglicht, unmittelbar Polizei und Rettungskräfte zu benachrichtigen. Durch die Verwendung von GPS für die Ortung stellen wir diese Daten den Einsatzkräften zur Verfügung, um möglichst schnell am Unfallort einzutreffen.
 
@@ -12,6 +12,12 @@ Nach einem Unfall leiten wir nicht beteiligte Verkehrsteilnehmer auf alternative
 Im Folgenden Link sehen Sie von der ÖAMTC eine Statistik der verunglückten Biker:innen und Mitfahrer:innen 
 
 https://www.oeamtc.at/presse/oeamtc-2022-verunglueckten-55-motorradfahrende-toedlich-55402573
+
+**Social Media**
+
+Aufgrund der bereits vorhandenen Vernetzung der User ist es möglich, ein Social Media Feature zu implementieren.  
+
+Die Profile der Fahrer/innen werden individuell gestaltet und diese können zum Beispiel Fotos, Videos, Dokumente oder andere Dateien veröffentlichen oder teilen.  
 
 
 ** **
